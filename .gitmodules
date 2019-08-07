@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/manaswinidas/kogito-website.wiki.git
+[submodule "kogito-website.wiki"]
+	path = kogito-website.wiki
+	url = https://github.com/manaswinidas/kogito-website.wiki.git
