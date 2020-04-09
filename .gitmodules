@@ -1,9 +1,9 @@
-[submodule "docs"]
-	path = docs
-	url = https://github.com/manaswinidas/kogito-website.wiki.git
 [submodule "kogito-website.wiki"]
 	path = kogito-website.wiki
 	url = https://github.com/manaswinidas/kogito-website.wiki.git
 [submodule "kogito-runtimes.wiki"]
 	path = kogito-runtimes.wiki
 	url = https://github.com/kiegroup/kogito-runtimes.wiki.git
+[submodule "DMN"]
+	path = DMN
+	url = git@github.com:manaswinidas/DMN.git
